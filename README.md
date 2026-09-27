@@ -2,7 +2,7 @@
 - I'm a CS Major who's interest is software engineer and game development
 - I have worked on an Idle Clicker game called "Goober Idle"
 - I have made a 3D arena wave clearer called "Parried"
-- If you want to reach me, my Discord is cloudydatboi
+- If you want to reach me, reach out on my LinkedIn
 <!--
 **LeCloudy69/LeCloudy69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
